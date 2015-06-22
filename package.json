@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sadwhiteboy/cozy-tutorial",
   "dependencies": {
-    "express": "^4.12.4",
+    "express": "~3.4.0",
     "jade": "^1.11.0"
   }
 }
